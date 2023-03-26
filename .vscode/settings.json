@@ -1,0 +1,23 @@
+{
+  "cSpell.words": [
+    "antd",
+    "BIZM",
+    "fontawesome",
+    "fortawesome",
+    "insta",
+    "kakao",
+    "Klay",
+    "klaytn",
+    "nomiclabs",
+    "originalname",
+    "preconnect",
+    "qawolf",
+    "Sider",
+    "signup",
+    "Swiper",
+    "userid"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
